@@ -13,7 +13,7 @@
 use in another component:
 
 ```html
-<c-heart-lwc size="small"></c-heart-lwc>  
+<c-heart-beat size="small"></c-heart-beat>  
 ```
 
 there is also a demo lwc included, used w/ lwc local dev server
@@ -23,7 +23,7 @@ there is also a demo lwc included, used w/ lwc local dev server
 putting below in component:
 
 ```html
-written with <c-heart-lwc size="small"></c-heart-lwc> by <i>jamie smith</i>
+written with <c-heart-beat size="small"></c-heart-beat> by <i>jamie smith</i>
 ```
 
 would result in below (with the heart animated)
